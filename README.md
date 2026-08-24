@@ -40,57 +40,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Chargebee](https://www.chargebee.com/)**  
-
-  Leading subscription management and monetization platform for mid-market SaaS, supporting complex plans, usage pricing, dunning, and revenue recognition workflows.
-
-
-
-- **[Recurly](https://recurly.com/)**  
-
-  Subscription billing platform optimized for high-volume subscriber management, retention, and intelligent payment recovery.
-
-
-
-- **[Maxio](https://www.maxio.com/)**  
-
-  Billing and financial operations platform for B2B SaaS, combining subscription management with revenue metrics and reporting.
-
-
-
-- **[Paddle](https://www.paddle.com/)**  
-
-  Merchant-of-record platform that handles payments, taxes, and compliance globally for digital products and SaaS.
-
-
-
-- **[Stripe Billing](https://stripe.com/billing)**  
-
-  Developer-first billing engine integrated with Stripe Payments, supporting subscriptions, usage-based pricing, and flexible models.
-
-
-
-- **[Zuora](https://www.zuora.com/)**  
-
-  Enterprise quote-to-cash and subscription billing system of record for large, multi-product revenue operations.
-
-
-
-- **[Chargify (Maxio)](https://www.maxio.com/)**  
-
-  Recurring billing platform (now part of Maxio) known for flexible subscription management and developer-friendly APIs.
-
-
-
-- **[FastSpring](https://fastspring.com/)**  
-
-  Global commerce and subscription platform that acts as merchant of record for software and digital goods.
-
-
-
-- **[Billsby](https://www.billsby.com/)**  
-
-  Subscription billing platform focused on simplicity and rapid setup for growing subscription businesses.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Chargebee](https://www.chargebee.com/)** | Leading subscription management and monetization platform for mid-market SaaS, supporting complex plans, usage pricing, dunning, and revenue recognition workflows. | **Starter:** Free up to $250k cumulative billing; **Performance:** $599/mo (includes up to $100k/mo billing + 0.75% overage) | **Free Plan:** Free for first $250,000 in cumulative billing (0.75% overage on additional volume); 14-day free trial on paid plans |
+| **[Recurly](https://recurly.com/)** | Subscription billing platform optimized for high-volume subscriber management, retention, and intelligent payment recovery. | **Starter:** $249/mo (includes first $40k/mo billing volume + 0.9% overage); **All-Access:** Custom enterprise quote | **Free Trial:** 90-day free trial on Starter plan with full feature testing (no permanent free tier) |
+| **[Maxio](https://www.maxio.com/)** | Billing and financial operations platform for B2B SaaS, combining subscription management with revenue metrics and reporting. | **Grow:** $599/mo (for businesses with up to $100k/mo billing volume); **Scale:** Custom enterprise quote | **Free Trial:** 14-day trial / demo access upon request; free developer test sandbox with no time limit (purged after 120 days inactivity) |
+| **[Paddle](https://www.paddle.com/)** | Merchant-of-record platform that handles payments, taxes, and compliance globally for digital products and SaaS. | **Pay-as-you-go:** 5% + $0.50 per successful transaction (no recurring monthly platform fee) | **Free Sandbox:** Unlimited free sandbox / developer environment for building and testing; no permanent free live processing tier |
+| **[Stripe Billing](https://stripe.com/billing)** | Developer-first billing engine integrated with Stripe Payments, supporting subscriptions, usage-based pricing, and flexible models. | **Pay-as-you-go:** 0.7% on recurring billing volume (plus standard processing fees of 2.9% + $0.30) | **Free Tier:** 25 free invoices per month on Stripe Invoicing; free integration in test mode / sandbox environment |
+| **[Zuora](https://www.zuora.com/)** | Enterprise quote-to-cash and subscription billing system of record for large, multi-product revenue operations. | **Enterprise:** Starts at ~$75,000/year (custom quote-based contracting based on subscriber and billing volume) | **Free Trial:** 30-day sandbox trial upon sales request; free access to Zuora University Essentials training courses |
+| **[Chargify (Maxio)](https://www.maxio.com/)** | Recurring billing platform (now part of Maxio) known for flexible subscription management and developer-friendly APIs. | **Grow:** $599/mo (includes up to $100k/mo billing volume); **Scale:** Custom enterprise quote | **Free Trial:** 14-day trial / demo sandbox; free developer testing environment with full API access |
+| **[FastSpring](https://fastspring.com/)** | Global commerce and subscription platform that acts as merchant of record for software and digital goods. | **Standard:** ~3.9%–8.9% + $0.95 per transaction (custom quote-based MoR model, no fixed monthly subscription fee) | **Free Trial:** 14-day trial account / demo access with full dashboard access to test store setups |
+| **[Billsby](https://www.billsby.com/)** | Subscription billing platform focused on simplicity and rapid setup for growing subscription businesses. | **Core:** $45/mo (includes up to $15k/mo revenue + 0.4% overage); **Pro:** $135/mo (includes up to $15k/mo revenue + 0.5% overage) | **Free Plan:** $0/mo Free testing and configuration plan (unlimited time/users before launch); 14-day free trial on live tiers |
 
 
 
